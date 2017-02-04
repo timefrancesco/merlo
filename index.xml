@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Merlo</title>
+    <link>https://xeo-it.github.io/merlo/index.xml</link>
+    <description>Recent content on Merlo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://xeo-it.github.io/merlo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title> </title>
+      <link>https://xeo-it.github.io/merlo/post/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xeo-it.github.io/merlo/post/first/</guid>
+      <description>
+
+&lt;h3 id=&#34;i-ve-selected-one-single-day-what-are-the-graphs-referring-to&#34;&gt;I’ve selected one single day, what are the graphs referring to?&lt;/h3&gt;
+
+&lt;p&gt;When a single report is selected, Merlo compares it agains the previous reports up to 2 weeks.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;what-is-the-score&#34;&gt;What is the score?&lt;/h3&gt;
+
+&lt;p&gt;The score is a simple math operation, it sums your retweets,favorites,mentions and new followers minus lost followers.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;what-are-followers-trend-and-following-trend&#34;&gt;What are followers trend and following trend?&lt;/h3&gt;
+
+&lt;p&gt;When a range of dates is selected, the trend is the absolute number of followers/following gained (or lost if negative).
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;unfollowers-unfollowing-to-unfollow-what&#34;&gt;Unfollowers? Unfollowing? To Unfollow? What?&lt;/h3&gt;
+
+&lt;p&gt;Unfollowers are people you are following who don’t follow you back.
+Unfollowing are people who follows you, but you are not following.
+To unfollow are recommendations on people you can unfollow. People get on this list if they didn’t tweet in the last 3 months or they tweet more than 20 tweets a day.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;what-is-the-most-productive-hour&#34;&gt;What is the most productive hour?&lt;/h3&gt;
+
+&lt;p&gt;It’s just the hour when you tweet the most.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;there-is-a-slider-on-the-calendar-but-when-i-move-it-nothing-happens&#34;&gt;There is a slider on the calendar but when I move it nothing happens.&lt;/h3&gt;
+
+&lt;p&gt;The slider is used to navigate trough months. If you just started using Merlo you will have to wait till next month to be able to use the slider.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-report-says-i-ve-been-unfollowed-but-when-i-click-on-it-i-cannot-see-anyone-the-number-doesn-t-match-the-people-i-see&#34;&gt;The report says I’ve been unfollowed but when I click on it I cannot see anyone / the number doesn’t match the people I see.&lt;/h3&gt;
+
+&lt;p&gt;This means that probably the person who unfollowed you is not on twitter anymore, so Merlo is unable to retrieve their profile.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-retweets-number-in-the-report-doesn-t-match-the-number-of-the-tweet&#34;&gt;The retweets number in the report doesn’t match the number of the tweet.&lt;/h3&gt;
+
+&lt;p&gt;The retweets on the report view refer to the number of tweets that have been retweeted, the numbers on the tweets page are the total number of retweets for the single tweet.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;why-do-i-have-to-wait-till-the-next-day-to-see-my-report&#34;&gt;Why do I have to wait till the next day to see my report?&lt;/h3&gt;
+
+&lt;p&gt;Merlo needs to compare the data against at least 2 dates, we realized that it’s not very nice to have a bunch of zeroes showing up the first time you run the app!
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;why-some-users-have-blue-circle-around-their-avatar-while-others-have-a-grey-circle&#34;&gt;Why some users have blue circle around their avatar while others have a grey circle?&lt;/h3&gt;
+
+&lt;p&gt;Users with blue circle are users you are following, grey ones are the ones you are not following.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;can-i-unfollow-follow-someone&#34;&gt;Can I unfollow/follow someone?&lt;/h3&gt;
+
+&lt;p&gt;Sure, just swipe the cell to reveal the follow/unfollow button.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
