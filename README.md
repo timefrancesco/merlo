@@ -1,7 +1,5 @@
-# merlo-ios
+# merlo
 daily reports, trends and statistics for twitter - iPhone
-
-[Official Website](http://www.merloapp.com)
 
 [App Store Link] (https://itunes.apple.com/app/id903805247)
 
