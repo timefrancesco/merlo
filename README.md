@@ -1,7 +1,7 @@
 # merlo
 daily reports, trends and statistics for twitter - iPhone
 
-[App Store Link] (https://itunes.apple.com/app/id903805247)
+[App Store Link](https://itunes.apple.com/app/id903805247)
 
 
 Merlo is designed to help you keep track of your daily twitter interactions, monitor your twitter account and improve your social engagement.  
