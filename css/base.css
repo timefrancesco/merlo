@@ -1,6 +1,13 @@
 @import url(//fonts.googleapis.com/css?family=Inconsolata:400,700);
 @import url(//fonts.googleapis.com/css?family=Josefin+Sans:300);
 @charset "UTF-8";
+
+:root{
+    --grayColor:#3E3E3E;
+    --vintageBlueColor: #2292b8;
+    --vintageSenapeColor: #f4eacf;
+}
+
 /*!
  *  Font Awesome 4.2.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -1799,7 +1806,7 @@ h2 {
 
 h3 {
   font-size: 1.2em;
-  color: #f4eacf; }
+  color: var(--vintageSenapeColor); }
 
 h4 {
   font-size: 1.5rem; }
@@ -1821,13 +1828,13 @@ a:hover {
 
 a.btn { /* App Store button and other buttons */
   text-decoration: none;
-  background-color: #2292B8;
+  background-color: var(--vintageBlueColor);
   border-radius: 10px;
   border-style: solid;
-  border-color: #f4eacf;
+  border-color: var(--vintageSenapeColor);
   border-width: 1px;
   -webkit-border-radius: 7px;
-  color: #f4eacf;
+  color: var(--vintageSenapeColor);
   display: inline-block;
   font-size: 20px;
   letter-spacing: 1px;
@@ -1843,7 +1850,7 @@ a.btn { /* App Store button and other buttons */
   height: 20px; }
 
 a.btn:hover {
-  background: #3E3E3E; }
+  background: var(--grayColor); }
 
 #header-arrow {
   font-size: 30px;
@@ -2063,8 +2070,8 @@ ul li {
   height: 100%;
   margin-bottom: 0rem;
   text-align: center;
-  color: #f4eacf; /*text color */
-  background: #2292B8 no-repeat center center; /*first page background color */
+  color: var(--vintageSenapeColor); /*text color */
+  background: var(--vintageBlueColor) no-repeat center center; /*first page background color */
   background-size: cover; }
 
 #blog-logo img {
@@ -2103,10 +2110,10 @@ ul li {
 .post-holder {
   width: 100%;
   height: 100%;
-  background: #3E3E3E;
+  background: var(--grayColor);
 
 
-  color: #2292B8; /* text Color in markdown post */
+  color: var(--vintageBlueColor); /* text Color in markdown post */
   position: relative; }
 
 .oneOff {
@@ -2356,14 +2363,14 @@ a.fn-item.active {
   line-height: 1.5em;
   color: #BBC7CC;
   text-align: center;
-  background: #f4eacf; }
+  background: var(--vintageSenapeColor); }
 
 .site-footer a {
-  color: #2292B8;
+  color: var(--vintageBlueColor);
   text-decoration: underline; }
 
 .site-footer a:hover {
-  color: #3E3E3E; }
+  color: var(--grayColor); }
 
 /* The subscribe icon on the footer */
 .subscribe {
